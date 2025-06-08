@@ -112,7 +112,7 @@ body{
     align-items: center;
     justify-content: center;
 }
-@media (max-width:600px) {
+@media (max-width:425px) {
     .user-chat-box{
         width: 80%;
         left:20%
@@ -120,5 +120,3 @@ body{
     .ai-chat-box{
         width: 80%;
     }
-    
-}
